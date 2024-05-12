@@ -1,15 +1,34 @@
 Todd Docs
-- [**linux**](linux/apt.md)
-- [docker](docker/overview.md)
+- Linux
+
+    - [linux](linux/apt.md)
+
+- Docker
+    - [docker](docker/overview.md)
     - [Command](docker/docker_cmd.md)
     - [Install](docker/install_docker.md)
-- [kubernetes](kubernetes/overview.md)
+
+- Kubernetes
+
+    - [kubernetes](kubernetes/overview.md)
     - [Install](kubernetes/kubeadm-install-k8s.md)
-- [ansible](ansible/overview.md)
+
+- Ansible
+
+    - [ansible](ansible/overview.md)
     - [Module](ansible/module.md)
-- [terraform](terraform/overview.md)
+
+- Terraform
+
+    - [terraform](terraform/overview.md)
     - [AWS eks](terraform/eks.md)
-- [python](python/overview.md)
+
+- Python
+
+    - [python](python/overview.md)
     - [example](python/example.md)
-- [golang](golang/overview.md)
+
+- Golang
+
+    - [golang](golang/overview.md)
     - [example](golang/example.md)
